@@ -30,3 +30,23 @@ body {
   font-size: 1.5rem;
   font-style: italic;
 }
+
+.navi {
+  float: right;
+  margin: 0 auto;
+  padding: 0 2%;
+}
+
+img {
+  width: 40px;
+  height: 30px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li{
+  display: inline;
+}
+
